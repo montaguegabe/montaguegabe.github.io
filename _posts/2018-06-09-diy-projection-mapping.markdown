@@ -5,7 +5,7 @@ date:   2018-06-09 19:09:17 -0400
 categories: jekyll update
 ---
 
-In this demo we explore a kind of AR that doesn't come with headsets or mobile screens: **interactive projection mapping**. For some examples of what interactive projective mapping is: see these [demos](https://youtu.be/EGw2JOx11IM?t=10m53s) from AWE USA 2017 or the projection mapping [blog](projection-mapping.org). Our project won't be quite as fancy: we'll just set up rudimentary hand-drawing on a projected surface:
+In this demo we explore a kind of AR that doesn't come with headsets or mobile screens: **interactive projection mapping**. For some examples of what interactive projective mapping is: see these [demos](https://youtu.be/EGw2JOx11IM?t=10m53s) from AWE USA 2017 or the projection mapping [blog](http://www.projection-mapping.org). Our project won't be quite as fancy: we'll just set up rudimentary hand-drawing on a projected surface:
 
 <div style="width:100%; height: 430px">
 <div class='col-3'>
