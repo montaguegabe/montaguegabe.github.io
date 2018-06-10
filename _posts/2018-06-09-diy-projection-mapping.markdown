@@ -9,7 +9,7 @@ In this demo we explore a kind of AR that doesn't come with headsets or mobile s
 
 <div style="width:100%; height: 430px">
 <div class='col-3'>
-<video width="202" height="400" controls autoplay loop muted>
+<video width="202" height="400" controls loop muted>
   <source src="/assets/demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
