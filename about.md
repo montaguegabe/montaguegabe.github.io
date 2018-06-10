@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img style="float: left; width: 10em; border:solid #CCC 1pt; margin-right: 2em" src="https://avatars1.githubusercontent.com/u/10249299">
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<div>
+<p>
+I'm a currently student of computer science and engineering at U.C. Berkeley. This website contains various tutorials, demos, and other information related to my programming, with focus in the areas of graphics and AI.
+</p>
+</div>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[jekyll-organization]: https://github.com/montaguegabe
